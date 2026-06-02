@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Emir 👋
 
-<!--
-**EmirSafaYavuz/EmirSafaYavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on:
 
-Here are some ideas to get you started:
+- .NET
+- Azure
+- Distributed Systems
+- Event-Driven Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### Azure Payment Platform
+
+Production-style payment processing platform built with:
+
+- Azure API Management
+- Azure App Service
+- Azure Functions
+- Azure Service Bus
+- Azure SQL
+- Azure Blob Storage
+- Application Insights
+
+Repository:
+https://github.com/EmirSafaYavuz/azure-payment-platform
+
+## Currently Learning
+
+- AZ-204
+- Cloud-Native Architecture
+- Distributed Systems
