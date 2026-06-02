@@ -1,31 +1,79 @@
 # Hi, I'm Emir 👋
 
-Backend Developer focused on:
+Backend Developer focused on building cloud-native and distributed systems.
 
-- .NET
+Currently working on enterprise software development while deepening my expertise in Azure, event-driven architectures, and scalable backend platforms.
+
+## What I Work With
+
+- .NET / ASP.NET Core
 - Azure
-- Distributed Systems
+- SQL Server
+- REST APIs
 - Event-Driven Architecture
-
-## Featured Project
-
-### Azure Payment Platform
-
-Production-style payment processing platform built with:
-
-- Azure API Management
-- Azure App Service
+- Distributed Systems
 - Azure Functions
 - Azure Service Bus
 - Azure SQL
-- Azure Blob Storage
 - Application Insights
+- GitHub Actions
 
-Repository:
-https://github.com/EmirSafaYavuz/azure-payment-platform
+## Professional Background
+
+- Backend Developer in the banking sector
+- Experience with enterprise software and internal platforms
+- Previously worked on mobile development with Swift and SwiftUI
+- Founder of personal software initiatives under Pine Software
+
+## Featured Projects
+
+### Azure Payment Platform
+
+Production-style payment processing platform built on Azure.
+
+Key concepts:
+
+- Azure API Management
+- App Service
+- Azure Functions
+- Service Bus
+- Azure SQL
+- Blob Storage
+- Managed Identity
+- Application Insights
+- Transactional Outbox Pattern
+- Dead Letter Queue Recovery
+- Idempotent Consumers
+
+### Workflow Platform (In Progress)
+
+A cloud-native workflow execution platform inspired by tools such as Zapier, Power Automate, and n8n.
+
+Focus areas:
+
+- Event-driven workflows
+- Background processing
+- Multi-tenant architecture
+- Distributed systems patterns
+- Azure-native integrations
 
 ## Currently Learning
 
-- AZ-204
+- Microsoft Azure AZ-204
 - Cloud-Native Architecture
 - Distributed Systems
+- Reliability Engineering
+- Observability
+- System Design
+
+## Career Goals
+
+- Build production-grade cloud platforms
+- Grow into a senior backend/cloud engineering role
+- Contribute to globally distributed software teams
+- Create scalable SaaS products through Pine Software
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/emirsafayavuz
+- Website: https://emirsafayavuz.com
