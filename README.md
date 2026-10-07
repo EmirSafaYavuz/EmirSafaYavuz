@@ -1,4 +1,4 @@
-# Hi, I'm Emir 👋
+# Hi, I'm Emir
 
 .NET Backend Developer working on digital banking and fintech systems.
 
